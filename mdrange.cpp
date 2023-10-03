@@ -2,7 +2,6 @@
 #include <Kokkos_Random.hpp>
 #include <vector>
 #include <iostream>
-#include "mdrange.h"
 #include <pybind11/pybind11.h>
 
 using space_t = Kokkos::HostSpace;
